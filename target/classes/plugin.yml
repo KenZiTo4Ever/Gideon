@@ -1,0 +1,9 @@
+name: Gideon
+version: '1.0-SNAPSHOT'
+main: wtf.kenziii.Gideon
+api-version: 1.18
+authors: [ ItsKenziiii ]
+description: Gideon Core
+commands:
+  spawn:
+  timer:
